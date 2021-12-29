@@ -1,2 +1,2 @@
 # Rust
-The Chinese version of 《The Rust Programming Language》.
+The notes of 《The Rust Programming Language》.
