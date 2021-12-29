@@ -1,0 +1,1 @@
+D:\Rust\rust-ebook-cn\The\ Rust\ Programming\ Language\1.Getting\ Started\project\hello_cargo\target\debug\hello_cargo.exe: D:\Rust\rust-ebook-cn\The\ Rust\ Programming\ Language\1.Getting\ Started\project\hello_cargo\src\main.rs

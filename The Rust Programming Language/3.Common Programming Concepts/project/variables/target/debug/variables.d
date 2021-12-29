@@ -1,0 +1,1 @@
+D:\Rust\rust-ebook-cn\The\ Rust\ Programming\ Language\3.Common\ Programming\ Concepts\project\variables\target\debug\variables.exe: D:\Rust\rust-ebook-cn\The\ Rust\ Programming\ Language\3.Common\ Programming\ Concepts\project\variables\src\main.rs
